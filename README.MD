@@ -30,7 +30,7 @@ Esta es una solución al reto propuesto en Nuwe.io sobre un diseño de sistema d
 
 ### Screenshot
 
-![](.Screenshot-Color-flipper.png)
+![](./Screenshot-Color-flipper.png)
 
 
 
