@@ -36,8 +36,8 @@ Esta es una solución al reto propuesto en Nuwe.io sobre un diseño de sistema d
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/ManuelFernandezEsteban/dialog-system.git)
-- Live Site URL: [Add live site URL here](https://manuelfernandezesteban.github.io/dialog-system/)
+- Solution URL: [Add solution URL here](https://github.com/ManuelFernandezEsteban/color-flipper.git)
+- Live Site URL: [Add live site URL here](https://manuelfernandezesteban.github.io/color-flipper/)
 
 
 ### Built with
